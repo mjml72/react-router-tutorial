@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.link {
+    text-decoration: none;
+    font-size: 1rem;
+    color: black;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    margin-top: 1rem;
+}
